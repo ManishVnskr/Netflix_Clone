@@ -4,13 +4,31 @@ This repository contains the source code for a Netflix clone built using [techno
 
 ### Project Features
 
-* [List of features implemented in the project]
+User Management:
+
+User registration and login
+User profile management, including avatar, name, and email address
+Watchlist for saving movies and TV shows users want to watch later
+Viewing history to track what users have watched
+Parental controls to restrict access to certain content
+
+Content Management:
+
+A comprehensive library of movies and TV shows
+Search functionality to find specific content
+Genre and category filters
+Recommendations based on user's watch history and preferences
+Detailed information about each movie and TV show, including synopsis, cast, crew, reviews, and ratings
+Trailers and previews for upcoming content
 
 ### Getting Started
 
 **Prerequisites:**
 
-* [List of any prerequisites for running the project]
+Technical Prerequisites:
+
+Programming Languages: Familiarity with programming languages like JavaScript.
+Front-End Frameworks: React, Html, scs other frameworks are needed for building the user interface.
 
 **Setup:**
 
